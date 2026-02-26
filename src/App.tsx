@@ -420,7 +420,7 @@ export default function App() {
                 {/* EMAIL REQUERIDO */}
                 <div>
                   <label className="block text-sm font-medium text-gray-400 mb-2">
-                    Correo de Contacto (Aparecerá en el PDF) *
+                    Correo de Contacto *
                   </label>
                   <input
                     required
