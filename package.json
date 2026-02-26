@@ -1,11 +1,16 @@
 {
-  "name": "generador-legal-peru",
+  "name": "generador-legal",
   "version": "1.0.0",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1",
     "jspdf": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.15",
+    "typescript": "4.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
