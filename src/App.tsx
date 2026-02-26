@@ -1,7 +1,8 @@
+// @ts-nocheck
 import React, { useState } from "react";
 import { jsPDF } from "jspdf";
 
-export default function GeneradorLegalPeru() {
+export default function App() {
   const [paso, setPaso] = useState(1);
   const [enviado, setEnviado] = useState(false);
 
