@@ -163,8 +163,8 @@ export default function App() {
           Políticas impecables <br /> para tu negocio.
         </h1>
         <p className="text-gray-400 text-lg md:text-xl font-light max-w-2xl mx-auto">
-          Genera una política de privacidad con validez legal (Ley N° 29733) en
-          menos de 2 minutos. Rápido, seguro y listo para implementar.
+          Completa este formulario y se generará una política de privacidad con validez legal (Ley N° 29733) en
+          menos de 2 minutos, un PDF. Rápido, seguro y listo para implementar en tu sitio web.
         </p>
       </div>
 
